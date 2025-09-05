@@ -11,7 +11,7 @@ import SwiftUI
 struct iOS_InterviewApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ReaderView()
         }
     }
 }
