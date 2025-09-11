@@ -1,4 +1,6 @@
-Introduce project to candidate
+REMOVE READ ME BEFORE SEND THE PROJECT TO CANDIDATE
+
+Introduce the project to candidate
 
 What wrong with app architecture? Does it follow Clean Architecture (Usecases). How to Fix it. // Missing repositories
 
